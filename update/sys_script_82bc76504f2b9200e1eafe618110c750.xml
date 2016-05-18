@@ -30,7 +30,7 @@
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
-	// Add your code here  1 2
+	// Add your code here  1 2 sdfsdfs
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -40,7 +40,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>82bc76504f2b9200e1eafe618110c750</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>test2</sys_name>
         <sys_overrides/>
         <sys_package display_value="GITMergeDemo" source="x_snc_gitmergedemo">e71cf6104f2b9200e1eafe618110c7d1</sys_package>
@@ -49,7 +49,7 @@
         <sys_scope display_value="GITMergeDemo">e71cf6104f2b9200e1eafe618110c7d1</sys_scope>
         <sys_update_name>sys_script_82bc76504f2b9200e1eafe618110c750</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-05-18 22:54:52</sys_updated_on>
+        <sys_updated_on>2016-05-18 23:25:57</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
